@@ -4,8 +4,8 @@ const { simpleParser } = require("mailparser");
 // Configuration for Gmail IMAP
 const config = {
   imap: {
-    user: "kelysaina@gmail.com",
-    password: "dxilukapxbaiaslr",
+    user: "YOUR_GMAIL_ACCOUNT_HERE",
+    password: "YOUR_APP_PASSWORD_HERE",
     host: "imap.gmail.com",
     port: 993,
     tls: true,
